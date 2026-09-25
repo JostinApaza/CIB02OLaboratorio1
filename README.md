@@ -1,1 +1,1 @@
-"CIB02O Laboratorio 1" 
+"CIB02O Laboratorio 2" 
